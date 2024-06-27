@@ -1,7 +1,7 @@
 <h1>Welcome!</h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="180"/>
+  <img decoding="async" src="https://github.com/jhonsamuel10/jhonsamuel10/blob/main/Banner%20Github.png" width="800"/>
 </div>
 
 <h3><b>About me</b></h3>
