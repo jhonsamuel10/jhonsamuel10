@@ -1,5 +1,9 @@
 <h1>Welcome!</h1>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
+</div>
+
 <h3><b>About me</b></h3>
 
 <p>Data Analyst organizado y experto en el análisis e interpretación de datos complejos para mejorar la toma de decisiones a través de herramientas como Python, SQL y Tableau.
