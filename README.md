@@ -1,10 +1,8 @@
-<h1>Welcome!</h1>
+<h1>Bienvenido!</h1>
 
+# 💫 About Me:
+Bienvenido a mi perfil de GitHub! Soy un Analista de Datos con más de 5 años de experiencia en la industria de la logística. Mi experiencia se centra en el análisis de datos, la modelización predictiva y la optimización de procesos de la cadena de suministro utilizando conocimientos basados en datos.
 
-<h3><b>About me</b></h3>
-
-<p>Data Analyst organizado y experto en el análisis e interpretación de datos complejos para mejorar la toma de decisiones a través de herramientas como Python, SQL y Tableau.
-Profesional en Comercio Internacional con experiencia en logística , Aduanas, transporte internacional, distribución, abastecimiento, control de inventarios y compras, capacitado para optimizar procesos mediante el control de recursos. Persona reflexiva, analítica, crítica y razonable, capaz de afrontar y resolver efectivamente situaciones y escenarios con alto grado de responsabilidad.
 
 
 </p>
@@ -38,5 +36,15 @@ Icons from https://simpleicons.org/
 </a>
 </p>
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jhonsamuel10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jhonsamuel10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsamuel10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jhonsamuel10&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
