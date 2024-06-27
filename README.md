@@ -1,7 +1,9 @@
 <h1>Bienvenido!</h1>
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/jhonsamuel10/jhonsamuel10/asset/163424613/9440f092-aff2-4d9f-a46b-5ff316583c37.png" width="800"/>
+
+  ![th](https://github.com/jhonsamuel10/jhonsamuel10/assets/163424613/9440f092-aff2-4d9f-a46b-5ff316583c37)
+  
 </div>
 
 
