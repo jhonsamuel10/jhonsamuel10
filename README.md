@@ -1,7 +1,7 @@
 <h1>Bienvenido!</h1>
 
 # 💫 About Me:
-Bienvenido a mi perfil de GitHub! Soy un Analista de Datos con más de 5 años de experiencia en la industria de la logística. Mi experiencia se centra en el análisis de datos, la modelización predictiva y la optimización de procesos de la cadena de suministro utilizando conocimientos basados en datos.
+Bienvenido a mi perfil de GitHub! Soy un Analista de Datos con más de 10 años de experiencia en la industria de la logística. Mi experiencia se centra en el análisis de datos, la modelización predictiva y la optimización de procesos de la cadena de suministro utilizando conocimientos basados en datos.
 
 
 
