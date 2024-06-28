@@ -1,7 +1,7 @@
 <h1>Bienvenidos!</h1>
 
 <div id="header" align="center">
-![Banner de Analisis de Datos](https://github.com/jhonsamuel10/assets/blob/main/banner.png)
+![Banner de Analisis de Datos](https://github.com/jhonsamuel10/assets/blob/main/banner.png.jpg)
 
 </div>
 
