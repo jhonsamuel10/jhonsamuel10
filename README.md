@@ -1,9 +1,8 @@
 <h1>Bienvenido!</h1>
 
 <div id="header" align="center">
+![Banner de Analisis de Datos](htpps://github.com/jhonsamuel10/assets/blob/main/banner.png)
 
-  ![th](https://github.com/jhonsamuel10/jhonsamuel10/assets/163424613/9440f092-aff2-4d9f-a46b-5ff316583c37)
-  
 </div>
 
 
