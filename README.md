@@ -1,8 +1,8 @@
 <h1>Bienvenido!</h1>
 
-
+<div align="center">
 <img src="https://github.com/jhonsamuel10/assets/blob/main/Banner .png.png"  alt="Banner de Analisis de Datos" width="800"/>
-
+</div>
 
 
 
