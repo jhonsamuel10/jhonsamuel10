@@ -17,7 +17,7 @@ Bienvenido a mi perfil de GitHub! Soy una Analista de Datos con más de 10 años
 
 * :heartbeat: Me encanta poder solucionar problemas efectivamente y de manera mas rapida con la aplicacion de codigo. :detective:
 
-* :mailbox: ¿Quieres contactar conmigo? ("https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" )
+* :mailbox: ¿Quieres contactar conmigo? <a href="https://www.linkedin.com/in/maria-mejia-p" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
 
 * :e-mail: mcamilamejiap2207@gmail.com
 
