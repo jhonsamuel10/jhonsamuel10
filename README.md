@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/maria-mejia-p" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
 </div>
 
-
+ <div id="header" align="left">
 
 # 💫 About Me:
 Bienvenido a mi perfil de GitHub! Soy una Analista de Datos con más de 10 años de experiencia en la industria de la logística. Mi experiencia se centra en el análisis de datos, la modelización predictiva y la optimización de procesos de la cadena de suministro utilizando conocimientos basados en datos.
