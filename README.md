@@ -1,7 +1,8 @@
 <h1>Bienvenido!</h1>
 
 
-<img src="https://github.com/jhonsamuel10/assets/blob/main/Banner.png.png"  alt="Banner de Analisis de Datos" width="400"/>
+<img src="https://github.com/jhonsamuel10/assets/blob/main/Banner .png.png"  alt="Banner de Analisis de Datos" width="400"/>
+
 
 
 
