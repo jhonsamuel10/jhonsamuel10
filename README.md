@@ -11,7 +11,7 @@
 # 💫 About Me:
 Bienvenido a mi perfil de GitHub! Soy una Analista de Datos con más de 10 años de experiencia en la industria de la logística. Mi experiencia se centra en el análisis de datos, la modelización predictiva y la optimización de procesos de la cadena de suministro utilizando conocimientos basados en datos.
 
-mante de la tecnología y entusiasta de comenzar mi carrera profesional como QA Engineer<img decoding="async" 
+Amante de la tecnología y entusiasta de comenzar mi carrera profesional como QA Engineer<img decoding="async" 
 
 * :telescope: Actualmente estoy en la parte final de mi curso de QA Engineer en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos que se complementan con mi titulo de Analista Programador. :muscle:
 
