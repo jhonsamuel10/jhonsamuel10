@@ -11,20 +11,17 @@
 # 💫 About Me:
 Bienvenido a mi perfil de GitHub! Soy una Analista de Datos con más de 10 años de experiencia en la industria de la logística. Mi experiencia se centra en el análisis de datos, la modelización predictiva y la optimización de procesos de la cadena de suministro utilizando conocimientos basados en datos.
 
-Amante de la tecnología y entusiasta de comenzar mi carrera profesional como QA Engineer<img decoding="async" 
+* :telescope: Realice el BootCamp de Data Analyst en TripleTen, con deseos de poder aplicar mis nuevos conocimientos que se complementan con mi experiencia y en Logistica y cadena de abastecimiento. :muscle:
 
-* :telescope: Actualmente estoy en la parte final de mi curso de QA Engineer en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos que se complementan con mi titulo de Analista Programador. :muscle:
+* :seedling: He realizado proyectos con :computer: lenguaje SQL y Python, utilizando las diferentes librerias.:technologist:
 
-* :seedling: Actualmente estoy practicando con Selenium :blue_book: y ya he realizado proyectos con :computer: lenguaje SQL y Python, sutilizando la libreria Pythest y Request, asi como tambien herramientas de Manual Testing, como Jira, Postman y Android Studio.:technologist:
+* :heartbeat: Me encanta poder solucionar problemas efectivamente y de manera mas rapida con la aplicacion de codigo. :detective:
 
-* :heartbeat: Me encanta el desafio descubrir nuevas formas de escribir codigo para automatizar mi trabajo, ya que me apasiona la logica de programacion. :detective:
+* :mailbox: ¿Quieres contactar conmigo? ("https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" )
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jrgcg/)
+* :e-mail: mcamilamejiap2207@gmail.com
 
-* :e-mail: jorge.caceresgarcia@gmail.com
-
-* :iphone: +569 4208 4090
-
+* :iphone: +57 313 802 03 26
 ---
 
 
