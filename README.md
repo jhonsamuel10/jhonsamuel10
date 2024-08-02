@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://github.com/jhonsamuel10/assets/blob/main/Banner .png.png"  alt="Banner de Analisis de Datos" width="800"/>
 <div align="center">  
-<a href="https://www.linkedin.com/in/maria-mejia-p" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/jhon-freddy-hernandez-bernal-jh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
 </div>
 
  <div id="header" align="left">
@@ -17,11 +17,11 @@ Bienvenido a mi perfil de GitHub! Soy una Analista de Datos con más de 10 años
 
 * :heartbeat: Me encanta poder solucionar problemas efectivamente y de manera mas rapida con la aplicacion de codigo. :detective:
 
-* :mailbox: ¿Quieres contactar conmigo? <a href="https://www.linkedin.com/in/maria-mejia-p" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+* :mailbox: ¿Quieres contactar conmigo? <a href="https://www.linkedin.com/in/jhon-freddy-hernandez-bernal-jh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
 
-* :e-mail: mcamilamejiap2207@gmail.com
+* :e-mail: freddyhernandez10@hotmail.com
 
-* :iphone: +57 313 802 03 26
+* :iphone: +57 305 294 06 25
 ---
 
 
@@ -53,7 +53,7 @@ Icons from https://simpleicons.org/
 <h3><b>Donde Encontrarme </b></h3>
 <p>
 <a href="https://github.com/jhonsamuel10" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/maria-mejia-p" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/jhon-freddy-hernandez-bernal-jh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
