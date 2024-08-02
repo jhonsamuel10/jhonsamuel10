@@ -9,7 +9,7 @@
  <div id="header" align="left">
 
 # 💫 About Me:
-Bienvenido a mi perfil de GitHub! Soy una Analista de Datos con más de 10 años de experiencia en la industria de la logística. Mi experiencia se centra en el análisis de datos, la modelización predictiva y la optimización de procesos de la cadena de suministro utilizando conocimientos basados en datos.
+Bienvenido a mi perfil de GitHub! Soy un Analista de Datos con más de 10 años de experiencia en la industria de la logística. Mi experiencia se centra en el análisis de datos, la modelización predictiva y la optimización de procesos de la cadena de suministro utilizando conocimientos basados en datos.
 
 * :telescope: Realice el BootCamp de Data Analyst en TripleTen, con deseos de poder aplicar mis nuevos conocimientos que se complementan con mi experiencia y en Logistica y cadena de abastecimiento. :muscle:
 
