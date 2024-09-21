@@ -19,7 +19,7 @@ Bienvenido a mi perfil de GitHub! Soy un Analista de Datos con más de 10 años 
 
 * :mailbox: ¿Quieres contactar conmigo? <a href="https://www.linkedin.com/in/jhon-freddy-hernandez-bernal-jh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
 
-* :e-mail: freddyhernandez10@hotmail.com
+* :e-mail: mcamilamejiap2207@gmail.com
 
 * :iphone: +57 305 294 06 25
 ---
