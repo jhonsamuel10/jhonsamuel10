@@ -9,7 +9,8 @@
  <div id="header" align="left">
 
 # 💫 About Me:
-Bienvenido a mi perfil de GitHub!  Soy un Business Intelligence con experiencia en análisis de datos, logística y comercio exterior, especializado en la optimización de la cadena de suministro. Manejo lenguajes de programación como SQL y Python
+Bienvenido a mi perfil de GitHub!  
+Soy un Business Intelligence con experiencia en análisis de datos, logística y comercio exterior, especializado en la optimización de la cadena de suministro. Manejo lenguajes de programación como SQL y Python
 
 * :telescope: Realice el BootCamp de Data Analyst en TripleTen, con deseos de poder aplicar mis nuevos conocimientos que se complementan con mi experiencia y en Logistica y cadena de abastecimiento. :muscle:
 
