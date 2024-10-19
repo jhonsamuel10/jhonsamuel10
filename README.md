@@ -14,9 +14,11 @@ Bienvenido a mi perfil de GitHub!
 
 Soy un profesional en Business Intelligence con sólida experiencia en análisis de datos, logística y comercio exterior, especializado en la optimización de la cadena de suministro. Cuento con conocimientos avanzados en lenguajes de programación como SQL y Python.
 
-* :telescope: He completado un programa intensivo de formación en análisis de datos, lo que me ha permitido expandir mis habilidades en el análisis avanzado de datos y complementar mi trayectoria profesional en logística y cadena de suministro. Esta formación me ha brindado herramientas para aplicar métodos cuantitativos y cualitativos en la toma de decisiones estratégicas, mejorando la eficiencia operativa y la optimización de recursos.:muscle:
+* He completado un programa intensivo de formación en análisis de datos, lo que me ha permitido expandir mis habilidades en el análisis avanzado de datos y complementar mi trayectoria profesional en logística y cadena de suministro. Esta formación me ha brindado herramientas para aplicar métodos cuantitativos y cualitativos en la toma de decisiones estratégicas, mejorando la eficiencia operativa y la optimización de recursos.:muscle:
 
-* :seedling:  He desarrollado proyectos utilizando SQL y Python, aplicando diversas librerías para el análisis y procesamiento de datos, lo que me ha permitido generar soluciones eficientes y basadas en datos para la toma de decisiones estratégicas.:technologist:
+* He desarrollado proyectos utilizando SQL y Python, aplicando diversas librerías para el análisis y procesamiento de datos, lo que me ha permitido generar soluciones eficientes y basadas en datos para la toma de decisiones estratégicas.:technologist:
+* 
+* Mi experiencia en logística y comercio exterior me ha proporcionado una comprensión profunda de los desafíos operativos en la cadena de suministro. A través de la integración de técnicas avanzadas de análisis de datos con mi conocimiento del sector, he logrado identificar áreas clave de optimización, reducir costos y mejorar la eficiencia en los procesos. Mi enfoque siempre ha sido generar soluciones basadas en datos que impacten positivamente en la rentabilidad y la toma de decisiones informadas dentro de las organizaciones.
 
 * :mailbox: ¿Quieres contactar conmigo? <a href="https://www.linkedin.com/in/jhon-freddy-hernandez-bernal-jh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
 
