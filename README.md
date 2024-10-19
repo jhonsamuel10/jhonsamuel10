@@ -10,11 +10,13 @@
 
 # 💫 About Me:
 Bienvenido a mi perfil de GitHub!  
-Soy un Business Intelligence con experiencia en análisis de datos, logística y comercio exterior, especializado en la optimización de la cadena de suministro. Manejo lenguajes de programación como SQL y Python
 
-* :telescope: Realice el BootCamp de Data Analyst en TripleTen, con deseos de poder aplicar mis nuevos conocimientos que se complementan con mi experiencia y en Logistica y cadena de abastecimiento. :muscle:
 
-* :seedling: He realizado proyectos con :computer: lenguaje SQL y Python, utilizando las diferentes librerias.:technologist:
+Soy un profesional en Business Intelligence con sólida experiencia en análisis de datos, logística y comercio exterior, especializado en la optimización de la cadena de suministro. Cuento con conocimientos avanzados en lenguajes de programación como SQL y Python.
+
+* :telescope: He completado un programa intensivo de formación en análisis de datos, lo que me ha permitido expandir mis habilidades en el análisis avanzado de datos y complementar mi trayectoria profesional en logística y cadena de suministro. Esta formación me ha brindado herramientas para aplicar métodos cuantitativos y cualitativos en la toma de decisiones estratégicas, mejorando la eficiencia operativa y la optimización de recursos.:muscle:
+
+* :seedling:  He desarrollado proyectos utilizando SQL y Python, aplicando diversas librerías para el análisis y procesamiento de datos, lo que me ha permitido generar soluciones eficientes y basadas en datos para la toma de decisiones estratégicas.:technologist:
 
 * :mailbox: ¿Quieres contactar conmigo? <a href="https://www.linkedin.com/in/jhon-freddy-hernandez-bernal-jh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
 
