@@ -16,8 +16,6 @@ Soy un Business Intelligence con experiencia en análisis de datos, logística y
 
 * :seedling: He realizado proyectos con :computer: lenguaje SQL y Python, utilizando las diferentes librerias.:technologist:
 
-* :heartbeat: Me encanta poder solucionar problemas efectivamente y de manera mas rapida con la aplicacion de codigo. :detective:
-
 * :mailbox: ¿Quieres contactar conmigo? <a href="https://www.linkedin.com/in/jhon-freddy-hernandez-bernal-jh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
 
 * :e-mail: freddyhernandez10@hotmail.com
